@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
-const Fitness = require("./fitnessModel.js");
+const Fitness = require("./workoutModel.js");
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/dbFitness", {
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
   useNewUrlParser: true,
 });
