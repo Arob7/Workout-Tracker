@@ -30,5 +30,9 @@ The user should be able to:
 
 *Node.js
 
+## Screenshot of Application
+<img src="public\images\fitnesstracker.JPG" width="700px">
+<img src="public\images\Workoutdashboard.JPG" width="700px">
+
 ## Application
 https://fast-inlet-26547.herokuapp.com/
