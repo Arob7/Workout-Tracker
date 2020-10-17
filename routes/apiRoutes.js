@@ -6,6 +6,8 @@ const router = require("express").Router();
 router.get("/api/workouts", (req, res) => {
   Workout.find({})
     .then((db) => {
+      // db.totalDuration = 15;
+      // console.log(db);
       res.json(db);
     })
     .catch((err) => {
