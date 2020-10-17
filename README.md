@@ -28,7 +28,7 @@ https://fast-inlet-26547.herokuapp.com/
 <img src="public\images\fitnesstracker.JPG" width="700px">
 <img src="public\images\Workoutdashboard.JPG" width="700px">
 
-## Technology Used
+## Technologies Used:
 *MongoDB
 
 *Mongoose.js
