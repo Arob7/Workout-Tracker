@@ -21,6 +21,10 @@ The user should be able to:
 
 *View the combined weight of multiple exercises on the stats page.
 
+## Application
+https://fast-inlet-26547.herokuapp.com/
+
+
 ## Technology Used
 *MongoDB
 
@@ -34,5 +38,3 @@ The user should be able to:
 <img src="public\images\fitnesstracker.JPG" width="700px">
 <img src="public\images\Workoutdashboard.JPG" width="700px">
 
-## Application
-https://fast-inlet-26547.herokuapp.com/
